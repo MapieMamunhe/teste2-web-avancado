@@ -1,0 +1,14 @@
+form{
+    width: max-content;
+}
+body{
+    display: grid;
+    align-content: center;
+}
+h2>a{
+    text-decoration: none;
+    color:white;
+}
+a:hover{
+    color:black;
+}

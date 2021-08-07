@@ -1,0 +1,28 @@
+body{
+    background-color: teal;
+    color:white;
+}
+body>div{
+    display: grid;
+    place-items: center;
+}
+.forms{
+    background-color: antiquewhite;
+    color:black;
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color:darkmagenta;
+}
+.center{
+    margin-top:50px;
+    height: 50vh;
+    width: 20rem;
+    background-color: antiquewhite;
+    color:black;
+    display: grid;
+    place-items: center;
+    border-radius: 10px;
+}
